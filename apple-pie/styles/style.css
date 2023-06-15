@@ -22,3 +22,15 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+
+#bruise-banner{
+  background-image: url('./../images/apple-pie.jpg');
+  background-size: cover;
+}
+
+#bruise-banner-title{
+  padding: 200px 0;
+  color: white;
+  font-size: 2em;
+  text-align: center;
+}
